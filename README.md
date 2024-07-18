@@ -1,4 +1,5 @@
 Food Desert Analysis Project
+
 Overview
 This project aims to analyze the factors contributing to food deserts using the USDA Food Access Research Atlas Data from 2019. The analysis employs a Random Forest model to identify key predictors and understand their importance in determining food deserts.
 
