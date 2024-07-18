@@ -13,7 +13,6 @@ To analyze and interpret the importance of various socioeconomic and demographic
 Dataset
 
 The dataset used in this project is the USDA Food Access Research Atlas Data from 2019, which includes:
-
 Information on the availability of supermarkets and grocery stores.
 Socioeconomic indicators such as poverty rate, median household income, and vehicle ownership.
 
