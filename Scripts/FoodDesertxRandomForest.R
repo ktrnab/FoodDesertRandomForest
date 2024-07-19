@@ -18,7 +18,7 @@ library(gridExtra)
 library(smotefamily)
 library(doParallel)
 
-file_path <- "~/Downloads/FoodAccessResearchAtlasData2019.csv"  # Update this path to your actual file location
+file_path <- "~/Downloads/FoodAccessResearchAtlasData2019.csv"  
 data <- read_delim(file_path, delim = ";")
 problems(data)
 
